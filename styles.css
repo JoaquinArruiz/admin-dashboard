@@ -65,7 +65,7 @@ body {
     height: 110vh;
     display: grid;
     grid-template: 1fr 4fr /1fr 4fr 1fr;
-    background-color: var(--white);
+    background-color: rgb(178, 212, 255);
 }
 
 .main {
